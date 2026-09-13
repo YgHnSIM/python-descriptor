@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "점 하나의 이면",
+      "hasCanvas": false,
+      "bodyTextLen": 995,
+      "bodyTextHash": "5a7357e53522a57a1354a560a467df998b4e0f3c20f97630efc415d1579ec280",
+      "bodyTextPrefix": "점 하나의 이면 Python bound method 0% 목차 00 강의의 출발점 같은 코드 01 실행하면 무엇이 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "점 하나의 이면",
+      "hasCanvas": false,
+      "bodyTextLen": 698,
+      "bodyTextHash": "e9e88253f279693e6dda370743a22817e82d009038811502e165557322b86950",
+      "bodyTextPrefix": "점 하나의 이면 0% 00 · 같은 코드 강의의 출발점 이 강의는 한 조각의 Python 코드에서 출발합니다. 질문",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
