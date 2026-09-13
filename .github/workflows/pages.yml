@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: "22"
           cache: npm
-      - run: npm ci
+      - run: npm install
       - run: VITE_AUTH_ENABLED=false npx vite build --config vite.config.pages.ts
       - run: node scripts/prepare-pages.mjs
       - uses: actions/upload-pages-artifact@v3
